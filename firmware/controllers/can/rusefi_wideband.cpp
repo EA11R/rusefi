@@ -11,6 +11,7 @@
 #pragma GCC diagnostic push
 #pragma GCC diagnostic ignored "-Wunused-function"
 #include "wideband_firmware/for_rusefi/wideband_can.h"
+#include "wideband_firmware_nocan/for_rusefi/wideband_can.h"
 #pragma GCC diagnostic pop
 
 // This file contains an array called build_wideband_noboot_bin
